@@ -1,0 +1,12 @@
+[project]
+name = "crawl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.12",
+    "beautifulsoup4>=4.13.3",
+    "crawl4ai>=0.4.248",
+    "gitin>=0.1.0",
+]

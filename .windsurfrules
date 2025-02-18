@@ -1,0 +1,6 @@
+Project Details:
+- Crawl sites, extract data and save them in a vector database.
+- Use 'uv' as the package manager.
+
+[Instructions]
+1.  Use uv to add or remove dependencies.
