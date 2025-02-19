@@ -9,4 +9,10 @@ dependencies = [
     "beautifulsoup4>=4.13.3",
     "crawl4ai>=0.4.248",
     "gitin>=0.1.0",
+    "openai>=1.63.0",
+    "pydantic-ai>=0.0.24",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.1",
+    "supabase>=2.13.0",
+    "watchdog>=6.0.0",
 ]
